@@ -1,0 +1,42 @@
+/* New Post  */
+
+
+.info {
+    margin-top: 70px;
+    background-color: #fff;
+    border: 1px solid #2c2c2c;
+    display: block;
+    position: relative;
+}
+
+.avatar img{
+    width: 130px;
+}
+
+.name {
+    position: absolute;
+    top: 0%;
+    left: 12%;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.name > h4 {
+    color: #000000;
+}
+
+.text {
+    color: #000000;
+    position: absolute;
+    top: 39%;
+    left: 15%;
+}
+
+/*.like {*/
+/*    padding-left: 20px;*/
+/*}*/
+
+/*.like > i:hover {*/
+/*    transition: .2s linear;*/
+/*    color: red;*/
+/*}*/
